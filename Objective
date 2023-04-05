@@ -1,0 +1,7 @@
+Diabetes Prediction– Python, Data Cleaning, EDA and Machine Learning 
+•	Problem Statement: Diabetes is a common disease for human body caused by metabolic disorder when the sugar level is high. It can cause many complications. Early prediction of such disease can save human life. Working on this risk factor related to diabetes using machine learning techniques.
+ 
+•	Working: In this study, we are using some popular machine learning algorithms namely, Random Forest, K-Nearest Neighbour (KNN), Decision Tree (DT) and Logistic Regression to predict diabetes.
+
+•	Outcomes: In our experimental results it shows that Logistic Regression have achieved the highest accuracy compared to other machine learning techniques.
+ 
